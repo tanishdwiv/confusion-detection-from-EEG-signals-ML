@@ -36,3 +36,7 @@ plt.plot(hist["epoch"], hist["val_f1"], label="Val F1")
 # Average across subjects
 # (See Step 6C in notebook)
 
+<img width="640" height="480" alt="download" src="https://github.com/user-attachments/assets/93d02ad9-b73c-400e-a985-af258236457a" />
+
+
+<img width="691" height="470" alt="download (1)" src="https://github.com/user-attachments/assets/47275aa6-f5eb-4a8e-9f2e-45f97cf50df8" />
